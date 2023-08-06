@@ -3,7 +3,7 @@
 
 import os, sys, signal
 
-MESSAGE_TUPLE = ("I love HMMY", "(most of) the women are ugly", "but the food", "is even worse")
+MESSAGE_TUPLE = ("I love PLH211", "the professor is boring", "but the subject is", "interesting & useful")
 
 def child(read, write):
     os.close(write)
